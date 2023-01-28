@@ -1,0 +1,265 @@
+year,FIDx,numCases,fidNAME
+2001,1,0,Western District of Kentucky
+2001,2,0,Eastern District of Kentucky
+2001,3,0,Southern District of Indiana
+2001,4,0,Middle District of Alabama
+2001,5,0,Southern District of Alabama
+2001,6,0,Western District of Arkansas
+2001,7,0,Eastern District of Arkansas
+2001,8,0,Northern District of California
+2001,9,0,Eastern District of California
+2001,10,0,Central District of California
+2001,11,0,District of Colorado
+2001,12,0,District of District of Columbia
+2001,13,0,Middle District of Florida
+2001,14,0,Northern District of Florida
+2001,15,0,Middle District of Georgia
+2001,16,0,Southern District of Georgia
+2001,17,0,Northern District of Georgia
+2001,18,0,District of Idaho
+2001,19,0,District of Kansas
+2001,20,0,Northern District of Texas
+2001,21,0,Southern District of Texas
+2001,22,0,Western District of Texas
+2001,23,0,Western District of Missouri
+2001,24,0,Eastern District of Missouri
+2001,25,0,District of Montana
+2001,26,0,District of Nebraska
+2001,27,0,Eastern District of Washington
+2001,28,0,Western District of Louisiana
+2001,29,0,Eastern District of Louisiana
+2001,30,0,District of Maine
+2001,31,0,District of Maryland
+2001,32,0,Southern District of Iowa
+2001,33,0,District of New Jersey
+2001,34,0,District of New Mexico
+2001,35,0,Western District of New York
+2001,36,0,Northern District of New York
+2001,37,0,Eastern District of New York
+2001,38,0,Western District of North Carolina
+2001,39,0,Eastern District of North Carolina
+2001,40,0,Middle District of North Carolina
+2001,41,0,District of North Dakota
+2001,42,0,Northern District of Ohio
+2001,43,0,Western District of Oklahoma
+2001,44,0,Eastern District of Texas
+2001,45,0,District of Utah
+2001,46,0,Eastern District of Oklahoma
+2001,47,0,District of Oregon
+2001,48,0,Western District of Pennsylvania
+2001,49,2,Eastern District of Pennsylvania
+2001,50,0,Middle District of Pennsylvania
+2001,51,0,District of South Carolina
+2001,52,0,District of South Dakota
+2001,53,0,Eastern District of Tennessee
+2001,54,0,Western District of Tennessee
+2001,55,0,Middle District of Tennessee
+2001,56,0,District of Massachusetts
+2001,58,0,Southern District of Illinois
+2001,59,0,Western District of Virginia
+2001,60,0,Western District of Washington
+2001,62,0,District of Minnesota
+2001,63,0,Northern District of Mississippi
+2001,64,0,Southern District of Mississippi
+2001,65,0,Northern District of Indiana
+2001,66,0,District of Nevada
+2001,67,0,District of New Hampshire
+2001,68,0,Southern District of California
+2001,69,0,District of Arizona
+2001,70,0,Northern District of West Virginia
+2001,71,0,Southern District of West Virginia
+2001,72,0,Western District of Wisconsin
+2001,73,0,District of Wyoming
+2001,75,0,Southern District of Florida
+2001,76,0,Northern District of Oklahoma
+2001,77,0,District of Vermont
+2001,78,0,District of Delaware
+2001,79,0,Eastern District of Wisconsin
+2001,80,0,Southern District of Ohio
+2001,81,0,Western District of Michigan
+2001,82,0,Southern District of New York
+2001,83,0,District of Rhode Island
+2001,85,0,Northern District of Illinois
+2001,88,0,Eastern District of Michigan
+2001,89,0,Northern District of Iowa
+2001,90,0,Central District of Illinois
+2001,91,0,District of Connecticut
+2001,92,0,Northern District of Alabama
+2001,93,0,Middle District of Louisiana
+2001,94,0,Eastern District of Virginia
+2002,1,0,Western District of Kentucky
+2002,2,0,Eastern District of Kentucky
+2002,3,0,Southern District of Indiana
+2002,4,0,Middle District of Alabama
+2002,5,0,Southern District of Alabama
+2002,6,0,Western District of Arkansas
+2002,7,0,Eastern District of Arkansas
+2002,8,0,Northern District of California
+2002,9,0,Eastern District of California
+2002,10,0,Central District of California
+2002,11,0,District of Colorado
+2002,12,0,District of District of Columbia
+2002,13,0,Middle District of Florida
+2002,14,0,Northern District of Florida
+2002,15,0,Middle District of Georgia
+2002,16,0,Southern District of Georgia
+2002,17,0,Northern District of Georgia
+2002,18,0,District of Idaho
+2002,19,0,District of Kansas
+2002,20,0,Northern District of Texas
+2002,21,0,Southern District of Texas
+2002,22,0,Western District of Texas
+2002,23,0,Western District of Missouri
+2002,24,0,Eastern District of Missouri
+2002,25,0,District of Montana
+2002,26,0,District of Nebraska
+2002,27,0,Eastern District of Washington
+2002,28,0,Western District of Louisiana
+2002,29,0,Eastern District of Louisiana
+2002,30,0,District of Maine
+2002,31,0,District of Maryland
+2002,32,0,Southern District of Iowa
+2002,33,0,District of New Jersey
+2002,34,0,District of New Mexico
+2002,35,0,Western District of New York
+2002,36,0,Northern District of New York
+2002,37,0,Eastern District of New York
+2002,38,0,Western District of North Carolina
+2002,39,0,Eastern District of North Carolina
+2002,40,0,Middle District of North Carolina
+2002,41,0,District of North Dakota
+2002,42,0,Northern District of Ohio
+2002,43,0,Western District of Oklahoma
+2002,44,0,Eastern District of Texas
+2002,45,0,District of Utah
+2002,46,0,Eastern District of Oklahoma
+2002,47,0,District of Oregon
+2002,48,0,Western District of Pennsylvania
+2002,49,0,Eastern District of Pennsylvania
+2002,50,0,Middle District of Pennsylvania
+2002,51,0,District of South Carolina
+2002,52,0,District of South Dakota
+2002,53,0,Eastern District of Tennessee
+2002,54,0,Western District of Tennessee
+2002,55,0,Middle District of Tennessee
+2002,56,0,District of Massachusetts
+2002,58,0,Southern District of Illinois
+2002,59,0,Western District of Virginia
+2002,60,0,Western District of Washington
+2002,62,0,District of Minnesota
+2002,63,0,Northern District of Mississippi
+2002,64,0,Southern District of Mississippi
+2002,65,0,Northern District of Indiana
+2002,66,3,District of Nevada
+2002,67,0,District of New Hampshire
+2002,68,0,Southern District of California
+2002,69,0,District of Arizona
+2002,70,0,Northern District of West Virginia
+2002,71,0,Southern District of West Virginia
+2002,72,0,Western District of Wisconsin
+2002,73,0,District of Wyoming
+2002,75,0,Southern District of Florida
+2002,76,0,Northern District of Oklahoma
+2002,77,0,District of Vermont
+2002,78,0,District of Delaware
+2002,79,0,Eastern District of Wisconsin
+2002,80,0,Southern District of Ohio
+2002,81,0,Western District of Michigan
+2002,82,0,Southern District of New York
+2002,83,0,District of Rhode Island
+2002,85,0,Northern District of Illinois
+2002,88,0,Eastern District of Michigan
+2002,89,0,Northern District of Iowa
+2002,90,0,Central District of Illinois
+2002,91,0,District of Connecticut
+2002,92,0,Northern District of Alabama
+2002,93,0,Middle District of Louisiana
+2002,94,0,Eastern District of Virginia
+2003,1,0,Western District of Kentucky
+2003,2,0,Eastern District of Kentucky
+2003,3,0,Southern District of Indiana
+2003,4,0,Middle District of Alabama
+2003,5,0,Southern District of Alabama
+2003,6,0,Western District of Arkansas
+2003,7,0,Eastern District of Arkansas
+2003,8,0,Northern District of California
+2003,9,0,Eastern District of California
+2003,10,0,Central District of California
+2003,11,0,District of Colorado
+2003,12,0,District of District of Columbia
+2003,13,0,Middle District of Florida
+2003,14,0,Northern District of Florida
+2003,15,0,Middle District of Georgia
+2003,16,0,Southern District of Georgia
+2003,17,0,Northern District of Georgia
+2003,18,0,District of Idaho
+2003,19,0,District of Kansas
+2003,20,0,Northern District of Texas
+2003,21,0,Southern District of Texas
+2003,22,0,Western District of Texas
+2003,23,0,Western District of Missouri
+2003,24,0,Eastern District of Missouri
+2003,25,0,District of Montana
+2003,26,0,District of Nebraska
+2003,27,0,Eastern District of Washington
+2003,28,0,Western District of Louisiana
+2003,29,0,Eastern District of Louisiana
+2003,30,0,District of Maine
+2003,31,0,District of Maryland
+2003,32,0,Southern District of Iowa
+2003,33,0,District of New Jersey
+2003,34,0,District of New Mexico
+2003,35,0,Western District of New York
+2003,36,0,Northern District of New York
+2003,37,0,Eastern District of New York
+2003,38,0,Western District of North Carolina
+2003,39,0,Eastern District of North Carolina
+2003,40,0,Middle District of North Carolina
+2003,41,0,District of North Dakota
+2003,42,0,Northern District of Ohio
+2003,43,0,Western District of Oklahoma
+2003,44,0,Eastern District of Texas
+2003,45,0,District of Utah
+2003,46,0,Eastern District of Oklahoma
+2003,47,0,District of Oregon
+2003,48,0,Western District of Pennsylvania
+2003,49,0,Eastern District of Pennsylvania
+2003,50,0,Middle District of Pennsylvania
+2003,51,0,District of South Carolina
+2003,52,0,District of South Dakota
+2003,53,0,Eastern District of Tennessee
+2003,54,0,Western District of Tennessee
+2003,55,0,Middle District of Tennessee
+2003,56,0,District of Massachusetts
+2003,58,0,Southern District of Illinois
+2003,59,0,Western District of Virginia
+2003,60,0,Western District of Washington
+2003,62,0,District of Minnesota
+2003,63,0,Northern District of Mississippi
+2003,64,0,Southern District of Mississippi
+2003,65,0,Northern District of Indiana
+2003,66,0,District of Nevada
+2003,67,0,District of New Hampshire
+2003,68,0,Southern District of California
+2003,69,0,District of Arizona
+2003,70,0,Northern District of West Virginia
+2003,71,0,Southern District of West Virginia
+2003,72,0,Western District of Wisconsin
+2003,73,0,District of Wyoming
+2003,75,0,Southern District of Florida
+2003,76,0,Northern District of Oklahoma
+2003,77,0,District of Vermont
+2003,78,0,District of Delaware
+2003,79,0,Eastern District of Wisconsin
+2003,80,0,Southern District of Ohio
+2003,81,0,Western District of Michigan
+2003,82,0,Southern District of New York
+2003,83,0,District of Rhode Island
+2003,85,0,Northern District of Illinois
+2003,88,0,Eastern District of Michigan
+2003,89,0,Northern District of Iowa
+2003,90,0,Central District of Illinois
+2003,91,0,District of Connecticut
+2003,92,0,Northern District of Alabama
+2003,93,0,Middle District of Louisiana
+2003,94,0,Eastern District of Virginia
